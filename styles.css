@@ -4,25 +4,16 @@ body {
   background-position: center top;
   background-attachment: fixed;
 }
-styles.css
-body {
-  color: #fff;
-}
 
-p,
-li,
-.section-head p,
-.about-copy,
-.download-copy,
-.connect-copy {
-  color: #fff;
-}
-
-h1,
-h2,
-h3,
-h4,
-span,
-label {
-  color: #fff;
+body,
+body p,
+body li,
+body h1,
+body h2,
+body h3,
+body h4,
+body span,
+body label,
+body strong {
+  color: #fff !important;
 }
